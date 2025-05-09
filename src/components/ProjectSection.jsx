@@ -3,6 +3,14 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
     {
         id: 1,
+        title: "YT Shorts Clone",
+        description: "YouTube Shorts Clone from scratch using Next.js 15, TypeScript, Prisma, and PostgreSQL (NeonDB), along with ImageKit.io for optimized image and video storage",
+        tags: ["Next Js", "Typescript", "Neon DB"],
+        demoUrl: "https://yt-shorts-one.vercel.app/",
+        githubUrl: "https://github.com/gitika0612/YT-Shorts",
+    },
+    {
+        id: 2,
         title: "ByteCode Website",
         description: "Integrated Clerk for secure authentication and user session management. Used Zod for type-safe form validation in both frontend and backend. Designed and implemented Create, Edit, Delete functionalities for articles using Prisma and PostgreSQL.",
         tags: ["Next Js", "Prisma", "Zod"],
@@ -10,20 +18,12 @@ const projects = [
         githubUrl: "https://github.com/gitika0612/byteCode_full_stack_application",
     },
     {
-        id: 2,
+        id: 3,
         title: "AakashLife Website",
         description:
             "Developed the About page for AakashLife’s official website using React, Tailwind CSS, and Redux. Focused on responsive layout, clean design, and smooth user experience to effectively communicate the brand’s mission and values.",
         tags: ["React Js", "Tailwind CSS", "Redux"],
         demoUrl: "https://www.aakashlife.in/about",
-    },
-    {
-        id: 2,
-        title: "File Manager",
-        description:
-            "Built a File Manager module using React.js, Bootstrap, and Redux Thunk, enabling users to create multi-level folders, upload files, manage versions, and send files for client review with approval workflows, transmittals and upload new version. ",
-        tags: ["React Js", "BootStrap", "Redux"],
-        demoUrl: "https://erp.production.idesign.market/",
     },
     {
         id: 4,
