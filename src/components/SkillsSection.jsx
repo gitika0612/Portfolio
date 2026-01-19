@@ -11,15 +11,18 @@ const skills = [
   { name: "Tailwind CSS", level: 90, category: "frontend" },
   { name: "Material UI", level: 90, category: "frontend" },
   { name: "Bootstrap", level: 90, category: "frontend" },
-  { name: "AG-Grid", level: 90, category: "frontend" },
   { name: "HTML/CSS", level: 95, category: "frontend" },
 
   // Backend
-  { name: "Prisma", level: 65, category: "backend" },
-  { name: "PostgreSQL", level: 65, category: "backend" },
+  { name: "Node.js", level: 85, category: "backend" },
+  { name: "Express.js", level: 85, category: "backend" },
+  { name: "MongoDB", level: 80, category: "backend" },
+  { name: "Prisma", level: 75, category: "backend" },
+  { name: "REST APIs", level: 88, category: "backend" },
 
   // Tools
   { name: "Vercel", level: 85, category: "tools" },
+  { name: "Cursor", level: 95, category: "tools" },
   { name: "Postman", level: 90, category: "tools" },
   { name: "Git/GitHub", level: 90, category: "tools" },
   { name: "VS Code", level: 95, category: "tools" },

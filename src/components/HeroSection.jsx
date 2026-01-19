@@ -21,7 +21,7 @@ export const HeroSection = () => {
                     </h1>
 
                     <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                        Front-End Developer crafting fast, intuitive, and modern web experiences with React, Next.js, and more.
+                    Full Stack Developer crafting fast, scalable, and modern web applications using React, Next.js, Node.js, Express, Prisma, and modern databases.
                     </p>
 
                     <div className="pt-4 opacity-0 animate-fade-in-delay-4">

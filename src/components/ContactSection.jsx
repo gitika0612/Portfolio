@@ -1,12 +1,7 @@
 import {
-    Instagram,
     Linkedin,
     Mail,
-    MapPin,
     Phone,
-    Send,
-    Twitch,
-    Twitter,
 } from "lucide-react";
 
 
